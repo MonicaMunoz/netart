@@ -1,17 +1,33 @@
 body {
-  margin: 30px auto;
-  max-width: 1000px;
-  font-family: "Helvetica", "Arial", sans-serif;
-  line-height: 1.5;
-  padding: 30px 20px;
+  background-image: url("https://universoracionalista.org/wp-content/uploads/2015/07/6873190-cosmos-wallpaper-1068x668.jpg") ;
+  text-align: center;
 }
 
+}
 h1 {
-  color: red;
-  padding: 20px 0px 10px 0px;
-}
+        text-align: left;
+        font-size: 24pt;
+        color: blue;
+        margin-bottom: 15px;
+        text-decoration: underline;
+        border-left: 15px;
+        border-width: 5px;
+        }
 
-a {
-color: #69CBBB;
-text-decoration: none;
+h2 {
+      border-top:
+      text-align:left;
+      color: red;
+    }
+h3 {
+  font-size: 1.5em;
+  background-color: #BE9FE4;
+  padding: 10px;
+  margin: 10px;
+  text-align: right;
 }
+p {
+            text-align:left;
+            padding-left: 30px;
+
+        }
